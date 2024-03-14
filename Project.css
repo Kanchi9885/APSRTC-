@@ -1,0 +1,216 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.one{
+    background-color: rgb(12, 187, 12);
+}
+.navtxt{
+    color: white !important;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 1%;
+}
+.navtxt:hover{
+    background-color: green;
+    margin: 0px;
+}
+.navbar-brand{
+    margin: 0px;
+    padding: 0px;
+}
+.bgimg{
+    background-image: url('https://res.cloudinary.com/dcl61utjp/image/upload/v1707976868/Picsart_24-02-15_11-25-46-281_tfsjf6.jpg');
+    width:100vw;
+    height:100vh;
+    background-position:center;
+}
+.sec1{
+    color: white;
+    margin-top: 3px;
+}
+.para{
+    font-size: 30px;
+}
+.card{
+    width: 30%;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.from{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 70%;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    border: 1px solid grey;
+    border-radius: 2px;
+
+}
+.to{
+    margin-bottom: 2%;
+    margin-left: 15%;
+    width: 70%;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+.searchforbus{
+    margin-top: 3%;
+    color: green;
+    text-align: center;
+    padding-top: 5%;
+}
+.ksv{
+    background-color: white;
+    width: 80%;
+    height: 90%;
+    margin-left: 10%;
+    margin-top: 6%;
+}
+.carousel-slide{
+    width: 100%;
+    margin-top: 10%;
+    justify-content: center;
+}
+.button{
+    background-color: green;
+    border: none;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+}
+
+
+.popularroots{
+    background-image: url('https://res.cloudinary.com/dcl61utjp/image/upload/v1708025482/WhatsApp_Image_2024-02-16_at_01.01.01_2a8977b7_rhs9ap.jpg');
+    width:100vw;
+    height:100vh;
+    background-position:center;
+}
+
+.bgimg1{
+    background-image: url('https://res.cloudinary.com/dcl61utjp/image/upload/v1708023936/WhatsApp_Image_2024-02-16_at_00.34.45_311382ba_pw7dk3.jpg');
+    width:100vw;
+    height:100vh;
+    background-position:center;
+}
+.heading1{
+    color: black;
+    margin-top: 3%;
+    text-align: center;
+}
+.parcel{
+    text-align: center;
+    margin-top: 5%;
+}
+.pc2{
+    
+    width: 20%;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-top: 3%;
+}
+.pc3{
+    padding-top: 8px;
+    padding-bottom: 7px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    height: 15%;
+    margin-top: 2%;
+    width: 20%;
+}
+
+
+
+.popular{
+    text-align: center;
+    color: green;
+    margin-top: 4%;
+}
+
+.card-img-top{
+    width: 400px;
+}
+.card{
+    border: none;
+}
+
+.footer{
+    display: flex;
+    width: 50%;
+    height: 10%;
+    margin-left: 18%;
+}
+.foot{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 23%;
+    text-align: center;
+    justify-content: center;
+}
+.trackmain{
+    display: flex;
+    align-items: center;
+    width: 150%;
+    margin-left: 25%;
+    border: 2px solid black;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+.trackhead{
+    margin-left: 25%;
+    width: 100%;
+}
+.heading1{
+    text-align: center;
+    width: 100%;
+    margin-left: 50%;
+    color: green;
+}
+.servicenumber{
+    margin-left: 2%;
+    padding-right: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.trackbutton{
+    background-color: green;
+    border: none;
+    color: white;
+    font-weight: bold;
+    margin-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.labels{
+    margin-left: 3%;
+}
